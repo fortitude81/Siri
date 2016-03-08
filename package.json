@@ -1,0 +1,25 @@
+{
+  "name": "siri",
+  "version": "1.0.0",
+  "description": "back talker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fortitude81/Siri.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fortitude81/Siri/issues"
+  },
+  "homepage": "https://github.com/fortitude81/Siri#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.1"
+  }
+}
